@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # PASSWORD CHECKER
-
-# In[10]:
-
-
 import requests 
 import hashlib  #for getting sha1 
 
@@ -44,44 +36,6 @@ else:
     print(f'{password} was not found')
     
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
